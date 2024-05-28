@@ -1,6 +1,7 @@
 <h1 align="center">Hi there, I'm Netrivial! <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">I'm python and c++ developer, IT student from Russia
 <img scr="https://img.icons8.com/?size=100&id=hT4UdesmXlvG&format=png&color=000000" height="28"/>(Ru/En)</h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I'm+python+)](https://git.io/typing-svg)
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
