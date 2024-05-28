@@ -1,6 +1,6 @@
-<h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Daniil</a> 
+<h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Netrivial!</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Computer science student, IT news writer from Russia 🇷🇺</h3>
+<h3 align="center">I'm python and c++ developer, IT student from Russia <a href=https://img.icons8.com/?size=100&id=hT4UdesmXlvG&format=png&color=000000(Ru/En)</a></h3>
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
