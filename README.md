@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Netrivial! <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=I'm+python+and+c%2B%2B+developer+(Ru/En)" alt="Typing SVG"/></a></h1>
+<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=I'm+python+and+c%2B%2B+developer+🇷🇺+(Ru/En)" alt="Typing SVG"/></a></h1>
 
 ---
 
