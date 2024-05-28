@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Netrivial!</a> <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">I'm python and c++ developer, IT student from Russia
-<img scr="https://ru.piliapp.com/emojis/flag-russia/">(Ru/En)</h3>
+<img scr="https://wprock.fr/en/t/emoji/flag-russia/">(Ru/En)</h3>
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
