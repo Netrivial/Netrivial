@@ -9,5 +9,5 @@
 [![Visual Studio Code](https://img.shields.io/badge/--007ACC?logo=visual%20studio%20code&logoColor=ffffff)](https://code.visualstudio.com/)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Netrivial&layout=compact)](https://github.com/Netrivial/github-readme-stats)
-![](https://tenor.com/ru/view/подозрительная-сова-мем-я-тебя-не-понимаю-gif-3235472917484055781)
-<img align="right" width="400" src="tenor.com/ru/view/подозрительная-сова-мем-я-тебя-не-понимаю-gif-3235472917484055781">
+![](https://gifs.ru/gifs/11160)
+<img align="right" width="400" src="https://gifs.ru/gifs/11160">
