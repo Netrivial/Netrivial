@@ -10,4 +10,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Netrivial&layout=compact)](https://github.com/Netrivial/github-readme-stats)
 ![](https://tenor.com/ru/view/подозрительная-сова-мем-я-тебя-не-понимаю-gif-3235472917484055781)
-<img align="right" alt="Coding" width="400" src="https://tenor.com/ru/view/подозрительная-сова-мем-я-тебя-не-понимаю-gif-3235472917484055781">
+<img align="right" width="400" src="tenor.com/ru/view/подозрительная-сова-мем-я-тебя-не-понимаю-gif-3235472917484055781">
