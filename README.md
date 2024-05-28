@@ -10,4 +10,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Netrivial&layout=compact)](https://github.com/Netrivial/github-readme-stats)
 ![](https://gifs.ru/gifs/11160)
-<img align="right" width="400" src="https://gifs.ru/gifs/11160.gif">
+<img align="right" width="400" src="https://gifs.ru/gifs/11160">
