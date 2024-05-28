@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Netrivial!</a>
+## <h1 align="center">Hi there, I'm Netrivial!</a>
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h2 align="center">I'm python and c++ developer (Ru/En)</h2>
 
