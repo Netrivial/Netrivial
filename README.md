@@ -9,4 +9,5 @@
 [![Visual Studio](https://img.shields.io/badge/--6C33AF?logo=visual%20studio)](https://visualstudio.microsoft.com/)
 [![Visual Studio Code](https://img.shields.io/badge/--007ACC?logo=visual%20studio%20code&logoColor=ffffff)](https://code.visualstudio.com/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Netrivial&layout=compact)](https://github.com/Netrivial/github-readme-stats) <iframe src="https://gifs.ru/embed/bc3feb531e764adfbea038909d6de18dcbbc375caf184f76bb5da71755611699" width="480" height="480" frameBorder="0" allowFullScreen></iframe><p><a href="https://gifs.ru/gifs/17038>via GIFS.RU</a></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Netrivial&layout=compact)](https://github.com/Netrivial/github-readme-stats)
+<iframe src="https://gifs.ru/embed/bc3feb531e764adfbea038909d6de18dcbbc375caf184f76bb5da71755611699" width="480" height="480" frameBorder="0" allowFullScreen></iframe><p><a href="https://gifs.ru/gifs/17038>via GIFS.RU</a></p>
