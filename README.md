@@ -4,11 +4,11 @@
 ---
 
 ### :woman_technologist: &nbsp;About Me :
-I'm a python, c++ develover from Russia  <img src="https://emojiguide.org/images/emoji/t/prp2921rr9xmt.png" width="20"> .<img src="https://emojigraph.org/media/whatsapp/flag-russia_1f1f7-1f1fa.png" width="20">
-- 🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
-- 🌱 Exploring Technical Content Writing.
-- ⚡ In my free time I solve problems on GeeksforGeeks and read tech articles.
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kakbar)
+I'm a python, c++ develover from Russia <img src="https://img.icons8.com/?size=48&id=63306&format=png">, also:
+-  I can create telegram bots <img scr="https://github.com/Netrivial/Netrivial/assets/170964709/ccba8f31-0980-4de5-bf39-c4d7cb5e94e7" height="32">
+-  Exploring Technical Content Writing.
+-  In my free time I solve problems on GeeksforGeeks and read tech articles.
+-  How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kakbar)
 
 
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
