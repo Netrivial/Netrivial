@@ -1,6 +1,5 @@
-<h1 align="center">Hi there, I'm Netrivial!</h1> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">I'm python and c++ developer</h3>
+<h1 align="center">Hi there, I'm Netrivial!</h1> <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h2 align="center">I'm python and c++ developer</h2>
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
