@@ -11,4 +11,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Netrivial&layout=compact)](https://github.com/Netrivial/github-readme-stats)
 <img align="right" src="https://gifdb.com/gif/rickroll-rick-astley-mgs-roll-3crx7gdj65ahceic.gif" width="480" height="480">
-![](https://gifdb.com/gif/rickroll-rick-astley-mgs-roll-3crx7gdj65ahceic.gif)
+![](https://tenor.com/ru/view/подозрительная-сова-мем-я-тебя-не-понимаю-gif-3235472917484055781)
