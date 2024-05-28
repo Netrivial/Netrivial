@@ -1,5 +1,4 @@
-<h1 align="center">Hi there, I'm Netrivial!</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h1 align="center">Hi there, I'm Netrivial!</a> <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">I'm python and c++ developer, IT student from Russia <img src="https://img.icons8.com/?size=100&id=hT4UdesmXlvG&format=png&color=000000" height="24"> (Ru/En)
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
