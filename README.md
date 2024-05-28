@@ -4,7 +4,7 @@
 ---
 
 ### :woman_technologist: &nbsp;About Me :
-I'm a python, c++ develover from Russia <img src="https://emojigraph.org/media/whatsapp/flag-russia_1f1f7-1f1fa.png" width="20"> <img src="https://emojio.ru/images/apple-b/1f1f7-1f1fa.png" width="20">.
+I'm a python, c++ develover from Russia  <img src="https://emojiguide.org/images/emoji/t/prp2921rr9xmt.png" width="20"> .<img src="https://emojigraph.org/media/whatsapp/flag-russia_1f1f7-1f1fa.png" width="20">
 - 🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 - 🌱 Exploring Technical Content Writing.
 - ⚡ In my free time I solve problems on GeeksforGeeks and read tech articles.
@@ -17,4 +17,4 @@ I'm a python, c++ develover from Russia <img src="https://emojigraph.org/media/w
 [![Visual Studio Code](https://img.shields.io/badge/--007ACC?logo=visual%20studio%20code&logoColor=ffffff)](https://code.visualstudio.com/)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Netrivial&layout=compact)](https://github.com/Netrivial/github-readme-stats)
-<img align="right" width="300" src="gif1.gif">
+<img align="right" width="300" src="gif2.gif">
