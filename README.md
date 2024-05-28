@@ -4,7 +4,7 @@
 ---
 
 ### :woman_technologist: &nbsp;About Me :
-I'm a python, c++ develover from Russia <img src="https://emojigraph.org/media/whatsapp/flag-russia_1f1f7-1f1fa.png" width="30">.
+I'm a python, c++ develover from Russia <img src="https://emojigraph.org/media/whatsapp/flag-russia_1f1f7-1f1fa.png" width="20">.
 - 🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 - 🌱 Exploring Technical Content Writing.
 - ⚡ In my free time I solve problems on GeeksforGeeks and read tech articles.
