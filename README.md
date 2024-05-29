@@ -39,4 +39,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Netrivial&layout=compact)](https://github.com/Netrivial/github-readme-stats)
 <img align="right" width="300" src="gif2.gif">
 
-
+![Jokes Card](https://readme-jokes.vercel.app/api)
