@@ -36,7 +36,17 @@
 
 ### 🔥 &nbsp;My stats :
 
+<h1 align="center">
+  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Netrivial&layout=compact)](https://github.com/Netrivial/github-readme-stats)
-<img align="right" width="300" src="gif2.gif">
+&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;<img width="300" src="gif2.gif">
+
+&nbsp;
+&nbsp;
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
+&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;<img width="250" src="gif1.gif">
+
+&nbsp;
+
+</h1>
