@@ -3,12 +3,19 @@
 
 ---
 
-### :woman_technologist: &nbsp;About Me :
-I'm a python, c++ develover from Russia <img src="https://img.icons8.com/?size=48&id=63306&format=png">, also:
--  I can create telegram bots <img scr="https://github.com/Netrivial/Netrivial/assets/170964709/ccba8f31-0980-4de5-bf39-c4d7cb5e94e7" height="32">
--  Exploring Technical Content Writing.
--  In my free time I solve problems on GeeksforGeeks and read tech articles.
--  How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kakbar)
+<h3>
+  
+### :woman_technologist: &nbsp;About Me :  
+  I'm a python, c++ develover from Russia &nbsp;<img src="https://emojisup.org/images/emoji/whatsapp/2-21-23-23/flag-russia@2x.png" height="20">&nbsp;, also:
+- 🔥 I can create telegram bots <img src="https://img.icons8.com/?size=100&id=63306&format=png&color=000000" height="20">
+- ✍️ I write LaTeX documents (Beamer, Asymptote)
+- 🎞️ I create mathematical animations (Manim)
+- 🧑‍💻 I use 
+</h3>
+
+<h2 align="center"><a href="https://t.me/MikhailCooper"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+<a href="https://discord.com/users/1092073497393627196"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
+<a href=""><img scr="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/></a></h2>
 
 
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
