@@ -10,18 +10,19 @@
 - 🔥 I can create telegram bots <img src="https://img.icons8.com/?size=100&id=63306&format=png&color=000000" height="20">
 - ✍️ I write LaTeX documents (Beamer, Asymptote)
 - 🎞️ I create mathematical animations (Manim)
-- 🧑‍💻 I use 
+- 🧑‍💻 I use &nbsp;[![Visual Studio](https://img.shields.io/badge/--6C33AF?logo=visual%20studio)](https://visualstudio.microsoft.com/)[![Visual Studio Code](https://img.shields.io/badge/--007ACC?logo=visual%20studio%20code&logoColor=ffffff)](https://code.visualstudio.com/)<img src="https://img.icons8.com/?size=48&id=117121&format=png" height="24"/>
 </h3>
 
 <h2 align="center"><a href="https://t.me/MikhailCooper"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 <a href="https://discord.com/users/1092073497393627196"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
-<a href=""><img scr="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/></a></h2>
+<a href="https://www.tiktok.com/@netrivial_official?_t=8ml0dYzvDko&_r=1"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/></a>
+</h2>
 
 
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
 [![made-with-latex](https://img.shields.io/badge/Made%20with-LaTeX-1f425f.svg)](https://www.latex-project.org/)
-[![Visual Studio](https://img.shields.io/badge/--6C33AF?logo=visual%20studio)](https://visualstudio.microsoft.com/)
-[![Visual Studio Code](https://img.shields.io/badge/--007ACC?logo=visual%20studio%20code&logoColor=ffffff)](https://code.visualstudio.com/)
+
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Netrivial&layout=compact)](https://github.com/Netrivial/github-readme-stats)
 <img align="right" width="300" src="gif2.gif">
