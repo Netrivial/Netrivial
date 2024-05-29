@@ -5,7 +5,7 @@
 
 ---
   
-### :woman_technologist: &nbsp;About Me :  
+## :woman_technologist: &nbsp;About Me :  
   I'm a python, c++ develover from Russia &nbsp;<img src="https://emojisup.org/images/emoji/whatsapp/2-21-23-23/flag-russia@2x.png" height="20">&nbsp;, also:
 - 🔥 I can create telegram bots <img src="https://img.icons8.com/?size=100&id=63306&format=png&color=000000" height="20">
 - ✍️ I write LaTeX documents (Beamer, Asymptote)
@@ -26,6 +26,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" height="60"/>
 <img src="https://github.com/ManimCommunity/manim/blob/main/logo/dark/transparent_background.svg" height="60"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" height="60"/>
+<img src="https://avatars.githubusercontent.com/u/13317638?s=48&v=4" height="60"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" height="60"/>
 </h2>
 
@@ -33,5 +34,9 @@
 
 ---
 
+### 🔥 &nbsp;My stats :
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Netrivial&layout=compact)](https://github.com/Netrivial/github-readme-stats)
 <img align="right" width="300" src="gif2.gif">
+
+
