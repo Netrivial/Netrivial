@@ -3,7 +3,7 @@
 
 ---
 
-<h2>
+<h1>
   
 ### :woman_technologist: &nbsp;About Me :  
   I'm a python, c++ develover from Russia &nbsp;<img src="https://emojisup.org/images/emoji/whatsapp/2-21-23-23/flag-russia@2x.png" height="20">&nbsp;, also:
@@ -11,7 +11,7 @@
 - ✍️ I write LaTeX documents (Beamer, Asymptote)
 - 🎞️ I create mathematical animations (Manim)
 - 🧑‍💻 I use &nbsp;[![Visual Studio](https://img.shields.io/badge/--6C33AF?logo=visual%20studio)](https://visualstudio.microsoft.com/)[![Visual Studio Code](https://img.shields.io/badge/--007ACC?logo=visual%20studio%20code&logoColor=ffffff)](https://code.visualstudio.com/)<img src="https://img.icons8.com/?size=48&id=117121&format=png" height="24"/>
-</h2>
+</h1>
 
 <h2 align="center"><a href="https://t.me/MikhailCooper"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 <a href="https://discord.com/users/1092073497393627196"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
