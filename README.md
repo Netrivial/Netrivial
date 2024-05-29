@@ -44,6 +44,8 @@
 &nbsp;
 &nbsp;
 
+---
+
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 &nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;<img width="250" src="gif1.gif">
 
