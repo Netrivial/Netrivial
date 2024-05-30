@@ -47,7 +47,7 @@
 &nbsp;
 &nbsp;
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/pin/?username=Netrivial&repo=Arion&theme=shades-of-purple"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api/pin/?username=Netrivial&repo=Arion&theme=shades-of-purple"/>
 &nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;<img src="gif3.gif" width="200px" height="200px"/>
 
 &nbsp;
