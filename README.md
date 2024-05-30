@@ -44,10 +44,17 @@
 &nbsp;
 &nbsp;
 
+<a  href="https://github.com/Netrivial/Arion"><img height="170" align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Netrivial&repo=Arion&theme=shades-of-purple"></a><a  href="https://github.com/AParovyshnaya/gena"><img src="https://github.com/AParovyshnaya/gena/blob/main/architecture/doc/images/icon/icon_256.png?raw=true" width="170px" height="170px"></a>
+
+&nbsp;
+&nbsp;
+
 ---
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 &nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;<img width="250" src="gif1.gif">
+
+
 
 &nbsp;
 
