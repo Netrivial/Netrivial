@@ -10,7 +10,8 @@
 - 🔥 I can create telegram bots <img src="https://img.icons8.com/?size=100&id=63306&format=png&color=000000" height="20">
 - ✍️ I write LaTeX documents (Beamer, Asymptote)
 - 🎞️ I create mathematical animations (Manim)
-- 🧑‍💻 I use &nbsp;[![Visual Studio](https://img.shields.io/badge/--6C33AF?logo=visual%20studio)](https://visualstudio.microsoft.com/)[![Visual Studio Code](https://img.shields.io/badge/--007ACC?logo=visual%20studio%20code&logoColor=ffffff)](https://code.visualstudio.com/)<img src="https://img.icons8.com/?size=48&id=117121&format=png" height="24"/>
+- 🧑‍💻 I use &nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-original.svg" height="20"/><img src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" height="20"/><img src="https://img.icons8.com/?size=48&id=117121&format=png" height="24"/>
+
 
 <h2 align="center"><a href="https://t.me/MikhailCooper"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 <a href="https://discord.com/users/1092073497393627196"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
