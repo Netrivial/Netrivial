@@ -47,6 +47,8 @@
 &nbsp;
 &nbsp;
 
+[![Harlok's WakaTime stats](https://github-readme-stats-fast.vercel.app/api/wakatime?username=Netrivial)](https://github.com/Pranesh-2005/github-readme-stats-fast)
+
 &nbsp;
 &nbsp;
 
