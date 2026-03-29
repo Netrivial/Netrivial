@@ -38,8 +38,9 @@
 ### 🔥 &nbsp;My stats :
 
 <h1 align="center">
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Netrivial&layout=compact)](https://github.com/Netrivial/github-readme-stats)
+
+<!-- do not work anymore :( -->
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Netrivial&layout=compact)](https://github.com/Netrivial/github-readme-stats) -->
 &nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;<img width="300" src="gif2.gif">
 
 &nbsp;
