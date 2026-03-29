@@ -41,7 +41,7 @@
 
 <!-- do not work anymore :( -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Netrivial)](https://github.com/Netrivial/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Netrivial&layout=compact)](https://github.com/Netrivial/github-readme-stats)
 &nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;<img width="300" src="gif2.gif">
 
 &nbsp;
