@@ -42,7 +42,7 @@
 <!-- do not work anymore :( -->
 [![Top Langs](https://github-readme-stats.-fast.vercel.app/api/top-langs/?username=Netrivial)](https://github.com/Netrivial/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Netrivial&layout=compact)](https://github.com/Netrivial/github-readme-stats)
-&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;<img width="300" src="gif2.gif">
+&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;<img width="300" src=".Gifs/gif2.gif">
 
 &nbsp;
 &nbsp;
@@ -51,7 +51,7 @@
 &nbsp;
 
 <img height="160" src="https://github-readme-stats.vercel.app/api/pin/?username=Netrivial&repo=Arion&theme=shades-of-purple"/>
-&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;<img src="gif3.gif" width="200px" height="200px"/>
+&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;<img src=".Gifs/gif3.gif" width="200px" height="200px"/>
 
 &nbsp;
 &nbsp;
