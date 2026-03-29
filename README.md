@@ -6,7 +6,7 @@
 ---
   
 ## :man_technologist: &nbsp;About Me :  
-  I'm a python, c++ develover from Russia &nbsp;<img src="https://emojisup.org/images/emoji/whatsapp/2-21-23-23/flag-russia@2x.png" height="20">&nbsp;, also:
+  I'm a python, c++ develover from Russia &nbsp;<img src="https://emojisup.org/images/emoji/whatsapp/2-21-23-23/flag-russia@2x.png" height="20">&nbsp;, and also:
 <!-- - 🔥 I can create telegram bots <img src="https://img.icons8.com/?size=100&id=63306&format=png&color=000000" height="20"> -->
 - ✍️ I write LaTeX documents (Beamer, Asymptote)
 <!-- - 🎞️ I create mathematical animations (Manim) -->
@@ -41,6 +41,7 @@
 
 <!-- do not work anymore :( -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Netrivial&layout=compact)](https://github.com/Netrivial/github-readme-stats) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 &nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;<img width="300" src="gif2.gif">
 
 &nbsp;
