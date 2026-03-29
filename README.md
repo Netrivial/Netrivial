@@ -51,7 +51,7 @@
 &nbsp;
 
 <img height="160" src="https://github-readme-stats.vercel.app/api/pin/?username=Netrivial&repo=Arion&theme=shades-of-purple"/>
-&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;<img src=".Gifs/gif3.gif" width="200px" height="200px"/>
+&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;<img src="./Gifs/gif3.gif" width="200px" height="200px"/>
 
 &nbsp;
 &nbsp;
@@ -65,7 +65,7 @@
 &nbsp;
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
-&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;<img width="300" src="gif1.gif">
+&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;<img width="300" src="./Gifs/gif1.gif">
 
 &nbsp;
 &nbsp;
