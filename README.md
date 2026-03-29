@@ -5,7 +5,7 @@
 
 ---
   
-## :woman_technologist: &nbsp;About Me :  
+## :man_technologist: &nbsp;About Me :  
   I'm a python, c++ develover from Russia &nbsp;<img src="https://emojisup.org/images/emoji/whatsapp/2-21-23-23/flag-russia@2x.png" height="20">&nbsp;, also:
 - 🔥 I can create telegram bots <img src="https://img.icons8.com/?size=100&id=63306&format=png&color=000000" height="20">
 - ✍️ I write LaTeX documents (Beamer, Asymptote)
