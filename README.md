@@ -70,6 +70,12 @@
 &nbsp;
 &nbsp;
 
+### 👁 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Netrivial&label=Profile%20views&color=0e75b6&style=flat" alt="Netrivial" />
+</p>
+
 &nbsp;
 &nbsp;
 
