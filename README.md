@@ -27,9 +27,9 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" height="60"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" height="60"/>
 <img src="https://avatars.githubusercontent.com/u/13317638?s=48&v=4" height="60"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons%2Fqt%2Fqt-original.svg" height="60">
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" height="60"/>
 </h2>
-<img src="https://github.com/devicons/devicon/blob/master/icons%2Fqt%2Fqt-original.svg" height="60">
 
 </h1>
 
