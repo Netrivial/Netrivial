@@ -19,12 +19,11 @@
   
 ---
 
-### &nbsp;Languages and Tools:
+### ⚒️ &nbsp;Languages and Tools:
 
 <h2 align="center">
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" height="60"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" height="60"/>
-<!-- <img src="https://github.com/ManimCommunity/manim/blob/main/logo/dark/transparent_background.svg" height="60"/> -->
 <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" height="60"/>
 <img src="https://avatars.githubusercontent.com/u/13317638?s=48&v=4" height="60"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" height="60"/>
