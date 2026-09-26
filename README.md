@@ -6,10 +6,10 @@
 ---
   
 ## :man_technologist: &nbsp;Something about me:  
-- I'm a python and c++ develover &nbsp;from Russia &nbsp;<img src="https://emojisup.org/images/emoji/whatsapp/2-21-23-23/flag-russia@2x.png" height="20"> &nbsp;
+- I'm a python and c++ developer from Russia &nbsp;<img src="https://emojisup.org/images/emoji/whatsapp/2-21-23-23/flag-russia@2x.png" height="20"> &nbsp;
 - I can create telegram bots <img src="https://img.icons8.com/?size=100&id=63306&format=png&color=000000" height="20">
 - I can write LaTeX documents (Beamer, Asymptote)
-- I use &nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-original.svg" height="20"/> <img src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" height="20"/> <img src="https://img.icons8.com/?size=48&id=117121&format=png" height="24"/>
+- I use &nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-original.svg" height="20"/> <img src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" height="20"/> <img src="https://img.icons8.com/?size=48&id=117121&format=png" height="24"/>
 
 
 <h2 align="center"><a href="https://t.me/MikhailCooper"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
