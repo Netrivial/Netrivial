@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Wronskian! <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=I'm+a+python+and+c%2B%2B+developer+(Ru/En)" alt="Typing SVG"/></a></h1>
+<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=I'm+a+python+, +c%2B%2B+developer+(Ru/En)" alt="Typing SVG"/></a></h1>
 
 <h1>
 
@@ -7,8 +7,9 @@
   
 ## :man_technologist: &nbsp;Something about me:  
 - I'm a python and c++ developer from Russia &nbsp;<img src="https://emojisup.org/images/emoji/whatsapp/2-21-23-23/flag-russia@2x.png" height="20"> &nbsp;
-- I can create telegram bots <img src="https://img.icons8.com/?size=100&id=63306&format=png&color=000000" height="20">
+- I create telegram bots <img src="https://img.icons8.com/?size=100&id=63306&format=png&color=000000" height="20">
 - I can write LaTeX documents (Beamer, Asymptote)
+- I create software using Qt and Qt Creator &nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons%2Fqt%2Fqt-original.svg" height="20">
 - I use &nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-original.svg" height="20"/> <img src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" height="20"/> <img src="https://img.icons8.com/?size=48&id=117121&format=png" height="24"/>
 
 
