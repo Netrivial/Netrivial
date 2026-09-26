@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Wronskian! <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=I'm+python+and +c%2B%2B+developer+(Ru/En)" alt="Typing SVG"/></a></h1>
+<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=I'm+a+python+,+c%2B%2B+developer+(Ru/En)" alt="Typing SVG"/></a></h1>
 
 <h1>
 
@@ -29,6 +29,7 @@
 <img src="https://avatars.githubusercontent.com/u/13317638?s=48&v=4" height="60"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" height="60"/>
 </h2>
+<img src="https://github.com/devicons/devicon/blob/master/icons%2Fqt%2Fqt-original.svg" height="60">
 
 </h1>
 
